@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- CD to the directory
 
-Things you may want to cover:
+- Run Command ‘rails server’
 
-* Ruby version
+- Go to : http://localhost:3000/ In your browser
 
-* System dependencies
+- You should now see “Hello, World!” in your browser
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+- Press Ctrl + C to shut down the server
